@@ -1,7 +1,11 @@
 <?php
 
-namespace Symfony\Contracts\Entity;
+namespace Xterr\Symfony\Contracts\Entity;
 
+/**
+ * Interface ISoftDeletable
+ * @package Xterr\Symfony\Contracts\Entity
+ */
 interface ISoftDeletable
 {
     /**

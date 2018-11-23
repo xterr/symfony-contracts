@@ -1,10 +1,10 @@
 <?php
 
-namespace Symfony\Contracts\Entity;
+namespace Xterr\Symfony\Contracts\Entity;
 
 /**
  * Interface ITimestampable
- * @package Symfony\Contracts\Entity
+ * @package Xterr\Symfony\Contracts\Entity
  */
 interface ITimestampable
 {

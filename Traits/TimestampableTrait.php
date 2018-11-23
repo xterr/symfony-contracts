@@ -1,10 +1,10 @@
 <?php
 
-namespace Symfony\Contracts\Traits;
+namespace Xterr\Symfony\Contracts\Traits;
 
 /**
  * Trait TimestampableTrait
- * @package Symfony\Contracts\Traits
+ * @package Xterr\Symfony\Contracts\Traits
  */
 trait TimestampableTrait
 {

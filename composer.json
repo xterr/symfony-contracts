@@ -13,8 +13,12 @@
     "require": {
         "php": "^7.0"
     },
+    "suggest": {
+        "doctrine/orm": "When using Doctrine contracts",
+        "gedmo/doctrine-extensions": "When using Gedmo extensions contracts"
+    },
     "autoload": {
-        "psr-4": { "Symfony\\Contracts\\": "" },
+        "psr-4": { "Xterr\\Symfony\\Contracts\\": "" },
         "exclude-from-classmap": [
             "**/Tests/"
         ]

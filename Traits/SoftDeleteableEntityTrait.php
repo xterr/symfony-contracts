@@ -1,12 +1,12 @@
 <?php
 
-namespace Symfony\Contracts\Traits;
+namespace Xterr\Symfony\Contracts\Traits;
 
 use Doctrine\ORM\Mapping as ORM;
 
 /**
  * Trait SoftDeleteableEntityTrait
- * @package Symfony\Contracts\Traits
+ * @package Xterr\Symfony\Contracts\Traits
  */
 trait SoftDeleteableEntityTrait
 {

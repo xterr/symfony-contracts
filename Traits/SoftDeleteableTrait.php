@@ -1,10 +1,10 @@
 <?php
 
-namespace Symfony\Contracts\Traits;
+namespace Xterr\Symfony\Contracts\Traits;
 
 /**
  * Trait SoftDeleteableTrait
- * @package Symfony\Contracts\Traits
+ * @package Xterr\Symfony\Contracts\Traits
  */
 trait SoftDeleteableTrait
 {

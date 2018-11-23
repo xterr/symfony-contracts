@@ -1,13 +1,13 @@
 <?php
 
-namespace Symfony\Contracts\Traits;
+namespace Xterr\Symfony\Contracts\Traits;
 
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Mapping\Annotation as Gedmo;
 
 /**
  * Trait TimestampableEntityTrait
- * @package Symfony\Contracts\Traits
+ * @package Xterr\Symfony\Contracts\Traits
  */
 trait TimestampableEntityTrait
 {
